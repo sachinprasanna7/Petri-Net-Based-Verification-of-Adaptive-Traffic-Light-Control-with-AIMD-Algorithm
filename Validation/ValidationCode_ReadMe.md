@@ -46,7 +46,14 @@ for val in TVals:
     print val
 ```
 
-### Usage
+## Prerequisites 
+
+Before you begin, ensure you have the following installed:
+
+1. C++ compiler (e.g., g++)
+2. Standard Template Library (STL)
+
+## Usage
 
 1. **Copy Code:** Copy the source code.
 
