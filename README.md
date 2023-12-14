@@ -25,9 +25,8 @@ under different situations.
 1. [AIMD Algorithm](#aimd-algorithm)
 2. [Petri Net Model](#petri-net-model)
 3. [Reachability Graph](#reachability-graph)
-6. [Marking Table](#marking-table)
-7. [Conclusion](#conclusion)
-8. [Usage](#usage)
+4. [Marking Table](#marking-table)
+5. [Usage](#usage)
 
 ## AIMD Algorithm
 
@@ -161,7 +160,6 @@ The marking table, which maps each marking to its corresponding integer values a
 | 1001000010000000100 |    20   |
 | 1001000100000000100 |    10   |
 | 1001001000000000100 |     1   |
-+---------------------+---------+
 
 
 
