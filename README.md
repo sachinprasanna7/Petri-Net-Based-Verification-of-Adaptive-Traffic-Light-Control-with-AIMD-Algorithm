@@ -185,7 +185,7 @@ Once you have the prerequisites installed, you can proceed by following the step
 
 ### 1. Clone the Repository
 
-Clone the repository to your local machine by using the following command on Command Prompt:
+Clone the repository to your local machine by using the following command on Command Prompt/ Windows Powershell:
 
 ```bash
 git clone https://github.com/sachinprasanna7/Petri-Net-Based-Verification-of-Adaptive-Traffic-Light-Control-with-AIMD-Algorithm.git
@@ -193,7 +193,7 @@ git clone https://github.com/sachinprasanna7/Petri-Net-Based-Verification-of-Ada
 
 ### 2. Navigate to the Project Directory
 
-Navigate to the directory where you cloned the repository by using the following command in the Command Prompt:
+Navigate to the directory where you cloned the repository by using the following command on Command Prompt/ Windows Powershell:
 
 ```bash
 cd your-repository
