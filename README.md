@@ -36,7 +36,7 @@ The Adaptive Increase Multiplicative Decrease (AIMD) algorithm is employed in th
 
 2. **No Congestion (Level-1):** When there is no congestion (Level-1), the algorithm suggests setting the cycle length to Tmax/2.
 
-3. **Congestion Worsens (Level-2 or Worse):** As congestion worsens (Level-2 or worse), the cycle time increases by adding a value called "Temp" based on the congestion level. The value of "Temp" varies for different congestion levels (Tmax/8 for Level-2, Tmax/8 for Level-3, and Tmax/2 for Level-1).
+3. **Congestion Worsens (Level-2 or Worse):** As congestion worsens (Level-2 or worse), the cycle time increases by adding a value called "Temp" based on the congestion level. The value of "Temp" varies for different congestion levels. The value of temp is initially set as Tmax/8 for Level-2, Tmax/4 for Level-3, and 0 for Level-1, but may change as new traffic levels are experienced, in accordance with the AIMD algorithm.
 
 4. **Additive Increase:** If congestion continues to increase, the algorithm keeps adding "Temp" to the cycle length until it reaches Tmax, representing an 'additive increase' in cycle time.
 
