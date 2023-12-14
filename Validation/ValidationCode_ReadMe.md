@@ -1,5 +1,7 @@
 # AIMD Algorithm Simulator
 
+## Overview
+
 This program models the Additive Increase Multiplicative Decrease (AIMD) algorithm to simulate traffic signal control. The variables `lvl` and `plvl` can have values 1, 2, or 3, representing signal levels. The new levels are randomly chosen using the `random` function. The variables `lvl` and `plvl` store the new level and the previous level. The variable `t` represents the amount of time the signal will be green. The variable `temp` is used for internal calculations within the algorithm to determine how much the value of `t` should increase (Additive Increase). The values of `t` are stored in the set `TVals` and are later printed to ensure that all expected values of `t` are reached.
 
 ## AIMD Algorithm
