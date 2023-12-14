@@ -206,7 +206,7 @@ Replace `your-repository` with the absolute path to the location where the repos
 Type the following command in on Command Prompt to observe all the results at once:
 
 ```bash
-run_program.bat
+./run_program.bat
 ```
 
 
