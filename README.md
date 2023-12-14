@@ -74,7 +74,7 @@ Before running the code, ensure that you have the following prerequisites instal
 
 ### Python Compiler
 
-### Required Python Libraries
+### Python Libraries
 
 You'll need the `networkx` and `matplotlib` libraries for running the Python code. Install them using the following commands:
 
@@ -96,17 +96,17 @@ git clone https://github.com/sachinprasanna7/Petri-Net-Based-Verification-of-Ada
 
 ### 2. Navigate to the Project Directory
 
-Navigate to the place where you cloned the repository. Use the following command on Command Prompt to do so:
+Navigate to the directory where you cloned the repository by using the following command in the Command Prompt:
 
 ```bash
 cd your-repository
 ```
 
-where `your-repository` is the absolute path to where the repository is stored in your local machine.
+Replace `your-repository` with the absolute path to the location where the repository is stored on your local machine.
 
-### 3. Run the Batch executable
+### 3. Run the Batch Executable
 
-Type the following command in on Command Prompt to observe all the results in one go:
+Type the following command in on Command Prompt to observe all the results at once:
 
 ```bash
 run_program.sh
