@@ -181,7 +181,7 @@ pip install matplotlib
 
 ```
 
-Once you have the prerequisites installed, you can proceed to by following the steps given below:
+Once you have the prerequisites installed, you can proceed by following the steps given below:
 
 ### 1. Clone the Repository
 
