@@ -167,11 +167,11 @@ The marking table, which maps each marking to its corresponding integer values a
 
 Before running the code, ensure that you have the following prerequisites installed:
 
-### C++ Compiler
+1. ``C++ Compiler``
 
-### Python Compiler
+2. ``Python Compiler``
 
-### Python Libraries
+3. ``Python Libraries``
 
 You'll need the `networkx` and `matplotlib` libraries for running the Python code. Install them using the following commands:
 
