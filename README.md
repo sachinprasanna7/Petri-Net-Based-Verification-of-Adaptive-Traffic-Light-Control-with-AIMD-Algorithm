@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code written in the research paper titled "Petri Net-Based Verification of Adaptive Traffic Light Control with AIMD Algorithm." This repository also contains the high definition pictures of the Petri Net and the Reachability Graph which could not be shown properly in the paper due to space constraints. It also contains the hash table which maps each marking to its integer equivalent as specified in the paper.
+This repository contains the code written in the research paper titled "Petri Net-Based Verification of Adaptive Traffic Light Control with AIMD Algorithm." This repository also contains high definition pictures of the Petri Net and the Reachability Graph which could not be shown properly in the paper due to space constraints. It also contains the hash table which maps each marking to its integer equivalent as specified in the paper.
 
 
 ## Abstract
