@@ -72,22 +72,7 @@ Before running the code, ensure that you have the following prerequisites instal
 
 ### C++ Compiler
 
-If you don't have a C++ compiler installed, you can follow these instructions to install one:
-
-- **Linux:** Most Linux distributions come with a C++ compiler by default. You can install it using your package manager. For example, on Ubuntu, you can use:
-
-  ```bash
-  sudo apt-get update
-  sudo apt-get install g++
-  ```
-
-- **MacOS:** You can install Xcode, which includes the Clang C++ compiler. Get Xcode from the App Store or visit the [Apple Developer website](https://developer.apple.com/xcode/).
-
-- **Windows:** For Windows, you can use MinGW (Minimalist GNU for Windows) or Visual Studio. Install MinGW using a tool like [MSYS2](https://www.msys2.org/), and download Visual Studio from the [official website](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
-
 ### Python Compiler
-
-Ensure you have Python installed on your system. Download Python from the [official Python website](https://www.python.org/).
 
 ### Required Python Libraries
 
@@ -101,7 +86,7 @@ pip install matplotlib
 
 Once you have the prerequisites installed, you can proceed to by following the steps given below:
 
-1. Clone the Repository
+### 1. Clone the Repository
 
 Clone the repository to your local machine by using the following command on Command Prompt:
 
@@ -109,7 +94,7 @@ Clone the repository to your local machine by using the following command on Com
 git clone https://github.com/sachinprasanna7/Petri-Net-Based-Verification-of-Adaptive-Traffic-Light-Control-with-AIMD-Algorithm.git
 ```
 
-2. Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 
 Navigate to the place where you cloned the repository. Use the following command on Command Prompt to do so:
 
@@ -119,7 +104,7 @@ cd your-repository
 
 where `your-repository` is the absolute path to where the repository is stored in your local machine.
 
-3. Run the Batch executable
+### 3. Run the Batch executable
 
 Type the following command in on Command Prompt to observe all the results in one go:
 
