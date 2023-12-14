@@ -53,7 +53,7 @@ For a visual representation of the algorithm, refer to the flowchart in the figu
 
 The Petri-net model as described in the paper is attached below. It can also be found in the folder `Paper` and by opening the `petrinet.pdf`. The XML code can be found in `petrinet.xml`
 
-![Petri-Net Model](Paper/petrinet.pdf)
+![Petri-Net Model](Paper/petrinet.jpg)
 
 
 ## Reachability Graph
