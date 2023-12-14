@@ -101,7 +101,7 @@ foreach place in visited do
 
 
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -110,7 +110,7 @@ Before you begin, ensure you have the following installed:
 
 
 
-### Usage
+## Usage
 
 1. **Copy Code:** Copy the source code.
 
