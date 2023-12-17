@@ -51,7 +51,7 @@ For a visual representation of the algorithm, refer to the flowchart in the figu
 
 ## Petri Net Model
 
-The Petri-net model as described in the paper is attached below. It can also be found in the folder `Paper` and by opening the `petrinet.pdf`. The XML code can be found in `petrinet.xml`
+The Petri-net model as described in the paper is attached below. It can also be found in the folder `Paper` and by opening the `petrinet.pdf`. The XML code for displaying the model on TimeNet is available in `petrinet.xml`.
 
 ![Petri-Net Model](Paper/petrinet.jpg)
 
