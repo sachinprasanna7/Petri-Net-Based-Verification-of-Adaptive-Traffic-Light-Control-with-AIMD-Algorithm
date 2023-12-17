@@ -55,6 +55,31 @@ The Petri-net model as described in the paper is attached below. It can also be 
 
 ![Petri-Net Model](Paper/petrinet.jpg)
 
+The descriptions of each place are attached below following the paper.
+
+| PLACE NAME  | MEANING                                     |
+|-------------|---------------------------------------------|
+| *L1*        | Current level is 1 (low traffic).           |
+| *L2*        | Current level is 2 (medium traffic).        |
+| *L3*        | Current level is 3 (high traffic).          |
+| *PL1*       | Previous level is 1 (low traffic).          |
+| *PL2*       | Previous level is 2 (medium traffic).       |
+| *PL3*       | Previous level is 3 (high traffic).         |
+| *T48*       | Previous green signal lasted 4/8 Tmax.      |
+| *T58*       | Previous green signal lasted 5/8 Tmax.      |
+| *T68*       | Previous green signal lasted 6/8 Tmax.      |
+| *T78*       | Previous green signal lasted 7/8 Tmax.      |
+| *T88*       | Previous green signal lasted 8/8 Tmax.      |
+| *T\_48*     | Current green signal will last 4/8 Tmax.    |
+| *T\_58*     | Current green signal will last 5/8 Tmax.    |
+| *T\_68*     | Current green signal will last 6/8 Tmax.    |
+| *T\_78*     | Current green signal will last 7/8 Tmax.    |
+| *T\_88*     | Current green signal will last 8/8 Tmax.    |
+| *Green*     | The signal is currently green.              |
+| *Red*       | The signal is currently red.                |
+| *Random*    | Randomly generates new levels.              |
+
+
 
 ## Reachability Graph
 
